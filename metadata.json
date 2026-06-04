@@ -1,0 +1,59 @@
+{
+  "siteId": "flowering-plant-recommendations",
+  "generatedAt": "2026-06-04T11:35:46.740723",
+  "categories": [
+    "beginner-flowering-plant-recommendations",
+    "advanced-flowering-plant-recommendations",
+    "tips-flowering-plant-recommendations",
+    "history-flowering-plant-recommendations",
+    "trending-flowering-plant-recommendations",
+    "tutorials-flowering-plant-recommendations"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-flowering-plant-recommendations",
+      "category_name": "Beginner Flowering Plant Recommendations"
+    },
+    {
+      "category_slug": "advanced-flowering-plant-recommendations",
+      "category_name": "Advanced Flowering Plant Recommendations"
+    },
+    {
+      "category_slug": "tips-flowering-plant-recommendations",
+      "category_name": "Flowering Plant Recommendations Tips"
+    },
+    {
+      "category_slug": "history-flowering-plant-recommendations",
+      "category_name": "Flowering Plant Recommendations History"
+    },
+    {
+      "category_slug": "trending-flowering-plant-recommendations",
+      "category_name": "Trending Flowering Plant Recommendations"
+    },
+    {
+      "category_slug": "tutorials-flowering-plant-recommendations",
+      "category_name": "Flowering Plant Recommendations Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "flowering-plant-recommendations",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Flowering Plant Recommendations Central",
+    "articles_per_row": 4
+  }
+}

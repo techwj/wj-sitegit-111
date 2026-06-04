@@ -1,0 +1,88 @@
+# Validation Report - flowering-plant-recommendations
+
+Generated: 2026-06-04T11:35:46.740491
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Flowering Plant Recommendations
+- ✓ Article word count OK: Beginner Flowering Plant Recommendations: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Flowering Plant Recommendations
+- ✓ Article word count OK: Beginner Flowering Plant Recommendations Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Flowering Plant Recommendations
+- ✓ Article word count OK: Beginner Flowering Plant Recommendations in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Flowering Plant Recommendations
+- ✓ Article word count OK: Common Mistakes in Beginner Flowering Plant Recommendations
+- ✓ Article word count OK: Beginner Flowering Plant Recommendations for Beginners
+- ✓ Article word count OK: Advanced Beginner Flowering Plant Recommendations Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Flowering Plant Recommendations
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Flowering Plant Recommendations
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Flowering Plant Recommendations
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Flowering Plant Recommendations
+- ✓ Article word count OK: Common Mistakes in Advanced Flowering Plant Recommendations
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations for Beginners
+- ✓ Article word count OK: Advanced Advanced Flowering Plant Recommendations Techniques
+- ✓ Article word count OK: The Ultimate Guide to Flowering Plant Recommendations Tips
+- ✓ Article word count OK: Flowering Plant Recommendations Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Flowering Plant Recommendations Tips
+- ✓ Article word count OK: Flowering Plant Recommendations Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Flowering Plant Recommendations Tips
+- ✓ Article word count OK: Flowering Plant Recommendations Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Flowering Plant Recommendations Tips
+- ✓ Article word count OK: Common Mistakes in Flowering Plant Recommendations Tips
+- ✓ Article word count OK: Flowering Plant Recommendations Tips for Beginners
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Flowering Plant Recommendations History
+- ✓ Article word count OK: Flowering Plant Recommendations History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Flowering Plant Recommendations History
+- ✓ Article word count OK: Flowering Plant Recommendations History Tips and Best Practices
+- ✓ Article word count OK: The History of Flowering Plant Recommendations History
+- ✓ Article word count OK: Flowering Plant Recommendations History in 2026: Current Trends
+- ✓ Article word count OK: Future of Flowering Plant Recommendations History
+- ✓ Article word count OK: Common Mistakes in Flowering Plant Recommendations History
+- ✓ Article word count OK: Flowering Plant Recommendations History for Beginners
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Flowering Plant Recommendations
+- ✓ Article word count OK: Trending Flowering Plant Recommendations: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Flowering Plant Recommendations
+- ✓ Article word count OK: Trending Flowering Plant Recommendations Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Flowering Plant Recommendations
+- ✓ Article word count OK: Trending Flowering Plant Recommendations in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Flowering Plant Recommendations
+- ✓ Article word count OK: Common Mistakes in Trending Flowering Plant Recommendations
+- ✓ Article word count OK: Trending Flowering Plant Recommendations for Beginners
+- ✓ Article word count OK: Advanced Trending Flowering Plant Recommendations Techniques
+- ✓ Article word count OK: The Ultimate Guide to Flowering Plant Recommendations Tutorials
+- ✓ Article word count OK: Flowering Plant Recommendations Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Flowering Plant Recommendations Tutorials
+- ✓ Article word count OK: Flowering Plant Recommendations Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Flowering Plant Recommendations Tutorials
+- ✓ Article word count OK: Flowering Plant Recommendations Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Flowering Plant Recommendations Tutorials
+- ✓ Article word count OK: Common Mistakes in Flowering Plant Recommendations Tutorials
+- ✓ Article word count OK: Flowering Plant Recommendations Tutorials for Beginners
+- ✓ Article word count OK: Advanced Flowering Plant Recommendations Tutorials Techniques
+- ✓ Ad configuration validated
